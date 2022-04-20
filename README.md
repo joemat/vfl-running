@@ -27,3 +27,4 @@ Folgendes Chrome-Plugin wird benötigt um Trainings in Garmin zu importieren/exp
    * [Anleitung bei youtube](https://www.youtube.com/watch?v=WGCTheNxoqo)
 * Das Plugin kann auch im  [kiwi browser](https://kiwibrowser.com/) auf Android installiert werden
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](gitpod.io/#https://github.com/joemat/vfl-running)
