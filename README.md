@@ -8,7 +8,7 @@
 | 2022-03-22  | [5x1000/1000](https://raw.githubusercontent.com/joemat/vfl-running/main/trainings/5x1000-1000.json)
 | 2022-03-15  | [2000 + 10x200](https://raw.githubusercontent.com/joemat/vfl-running/main/trainings/2000-10x200.json)
 | 2022-05-24  | [12x400](https://raw.githubusercontent.com/joemat/vfl-running/main/trainings/12x400m.json)
-
+| 2022-05-24  | [3000/2000/1000/8000](https://raw.githubusercontent.com/joemat/vfl-running/main/trainings/3000-2000-1000-800.json)
 ## Hinweise 
 
 * Download: Rechtsklick auf Training und "Ziel speichern unter ..." wählen
